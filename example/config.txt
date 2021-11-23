@@ -1,0 +1,2 @@
+Prefix plugins/CSVUpperTriangular/example/
+Plugin CSVUpperTriangular inputfile unifrac.csv outputfile unifrac.upper.csv
